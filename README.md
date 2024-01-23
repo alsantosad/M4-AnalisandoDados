@@ -79,13 +79,11 @@ Identifique as colunas do seu arquivo e substitua os nomes das colunas a serem i
 ### 1. Total de Horas Trabalhadas por Dia.
 ### 2. Média Diária de Horas Trabalhadas
 
-![Banner Resilia](/1 e 2.png)
+![Pergunta 1 e pergunta 2](imagem.png)
 
+### 3. Total de Bugs Corrigidos
+### 4. Média Diária de Bugs Corrigidos
 
-
-### Produtividade Diária
-
-![Grafico de Linha - Produtividade Diária](./images/grafico_prod.png)
 
 
 ## Contribuições
