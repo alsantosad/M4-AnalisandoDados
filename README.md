@@ -83,12 +83,12 @@ Identifique as colunas do seu arquivo e substitua os nomes das colunas a serem i
 
 ![Pergunta 3 e pergunta 4](imagem1.png)
 
-# 5. Total de Tarefas Concluídas
-# 6. Média Diária de Tarefas Concluídas
+### 5. Total de Tarefas Concluídas
+### 6. Média Diária de Tarefas Concluídas
 
 ![Pergunta 5 e pergunta 6](imagem2.png)
 
-# 7. Média Diária de Tarefas Concluídas
+### 7. Média Diária de Tarefas Concluídas
 
 ![Pergunta 7](imagem3.png)
 
