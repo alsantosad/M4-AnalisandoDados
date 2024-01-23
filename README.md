@@ -84,7 +84,7 @@ Identifique as colunas do seu arquivo e substitua os nomes das colunas a serem i
 ### 3. Total de Bugs Corrigidos
 ### 4. Média Diária de Bugs Corrigidos
 
-
+![Pergunta 3 e pergunta 4](imagem1.png)
 
 ## Contribuições
 
