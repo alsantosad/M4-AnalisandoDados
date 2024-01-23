@@ -32,10 +32,7 @@ Este é um programa com o propósito de gerar um relatório de progresso diário
 
 ## Estrutura do Projeto
 
-- [**data/**](./data)
-  - [relatorio_diario.xlsx](./data/relatorio_diario.xlsx)
-- [**notebooks/**](./notebooks)
-  - [relatorio_diario.ipynb](./notebooks/relatorio_diario.ipynb)
+- [**NOTEBOOK**](https://github.com/alsantosad/M4-AnalisandoDados/blob/main/M4%20-%20Projeto%20Individual.ipynb)
 - [**LICENSE.md**](./LICENSE.md)
 - [**README.md**](./README.md)
 - [**requirements.txt**](./requirements.txt)
